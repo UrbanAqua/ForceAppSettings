@@ -20,8 +20,8 @@ android {
         applicationId = "com.ownapp.forceAppSettings"
         minSdk { version = release(31) }
         targetSdk { version = release(37) }
-        versionCode = 1
-        versionName = "1.0.0"
+        versionCode = 2
+        versionName = "1.1.0"
     }
 
     buildTypes {
