@@ -10,7 +10,7 @@ An LSPosed module that forces a specified Locale and display mode (dark/light) f
 
 ## Requirements
 
-- Android 8.0+
+- Android 12.0+(API 31+)
 - LSPosed API 102+
 - Rooted device
 
